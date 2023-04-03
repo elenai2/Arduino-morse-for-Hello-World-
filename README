@@ -1,3 +1,7 @@
+program for arduino that simply says hello world using morse code through the leds.
+
+
+
 used 3 leds
 13 - for the combinations itself 
 12 - to separate the combinations 
